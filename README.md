@@ -13,4 +13,9 @@
   
 📜Especialidades: SAP NetWeaver Process Integration, Process Orchestration, ABAP, Java, PHP, Ruby on Rails, Python.  
   
-🌐Idealizador do grupo de compartilhamento de conhecimento SAP ABAP DOJO
+[![ABAP DOJO Telegram](https://img.shields.io/badge/-Telegram-61DAFB?logo=telegram)](https://t.me/abap_dojo) Idealizador do grupo de compartilhamento de conhecimento SAP ABAP DOJO
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rafaelvalim/)
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/rafael.valim)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=rafaelfvalim)
