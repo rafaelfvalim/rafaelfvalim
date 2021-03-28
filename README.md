@@ -6,9 +6,7 @@
 ✅Programador sênior SAP PI/PO desenvolvimento de integrações.  
   
 ✅Programador sênior Java de acordo com as especificações J2EE, boas práticas e uso de frameworks de mercado.  
-  
-✅Conhecimentos em banco de dados Oracle e MS SQL capacidade de criar manipular e realizar consultas criar trigers e procedures.  
-  
+    
 ✅Conhecimentos em Ruby in Rails, Python e Javscript.  
   
 📜Especialidades: SAP NetWeaver Process Integration, Process Orchestration, ABAP, Java, PHP, Ruby on Rails, Python.  
