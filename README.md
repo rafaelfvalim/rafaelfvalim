@@ -1,5 +1,5 @@
 ## Sobre
-💻Oi eu sou Rafael Valim tenho 39 anos trabalho a 12 anos com desenvolvimento e arquitetura de soluções e integração de sistemas.  
+💻Oi eu sou Rafael Valim tenho 39 anos e trabalho a 12 anos com desenvolvimento e arquitetura de soluções e integração de sistemas.  
   
 📜Especialidades: SAP NetWeaver Process Integration, Process Orchestration, SAP ABAP, Java, PHP, Ruby on Rails e Python.  
   
